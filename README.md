@@ -4,7 +4,7 @@
 
 # How to run the project
 
-	1-Open the repo of project on my git of this link
+	1-Open the repo of project on my git of this link https://github.com/mustafaabduljalil/feed-reader-testing
 	2- Download the feed-reder-testing.zip
 	3- Extract file feed-reder-testing.zip.zip.
 	4- Open the folder after extrct it.
